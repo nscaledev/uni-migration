@@ -5,8 +5,8 @@ go 1.23.5
 require (
 	github.com/spf13/pflag v1.0.6
 	github.com/unikorn-cloud/compute v0.1.0
-	github.com/unikorn-cloud/core v0.1.89-rc6
-	github.com/unikorn-cloud/identity v0.2.53-rc7
+	github.com/unikorn-cloud/core v0.1.90-rc1
+	github.com/unikorn-cloud/identity v0.2.58-rc5
 	github.com/unikorn-cloud/kubernetes v0.2.55
 	github.com/unikorn-cloud/region v0.1.47
 	k8s.io/apimachinery v0.32.1
