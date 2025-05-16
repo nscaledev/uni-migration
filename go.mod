@@ -4,15 +4,15 @@ go 1.24.2
 
 require (
 	github.com/spf13/pflag v1.0.6
-	github.com/unikorn-cloud/compute v0.1.7
-	github.com/unikorn-cloud/core v0.1.95
-	github.com/unikorn-cloud/identity v0.2.63
-	github.com/unikorn-cloud/kubernetes v0.2.64
-	github.com/unikorn-cloud/region v0.1.54
-	k8s.io/apimachinery v0.33.0
-	k8s.io/cli-runtime v0.33.0
-	k8s.io/client-go v0.33.0
-	k8s.io/kubectl v0.33.0
+	github.com/unikorn-cloud/compute v1.0.0
+	github.com/unikorn-cloud/core v1.0.0
+	github.com/unikorn-cloud/identity v1.0.0
+	github.com/unikorn-cloud/kubernetes v1.0.2
+	github.com/unikorn-cloud/region v1.0.0
+	k8s.io/apimachinery v0.33.1
+	k8s.io/cli-runtime v0.33.1
+	k8s.io/client-go v0.33.1
+	k8s.io/kubectl v0.33.1
 	sigs.k8s.io/controller-runtime v0.20.4
 )
 
@@ -84,8 +84,8 @@ require (
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	k8s.io/api v0.33.0 // indirect
-	k8s.io/component-base v0.33.0 // indirect
+	k8s.io/api v0.33.1 // indirect
+	k8s.io/component-base v0.33.1 // indirect
 	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20250318190949-c8a335a9a2ff // indirect
 	k8s.io/utils v0.0.0-20250502105355-0f33e8f1c979 // indirect
